@@ -18,7 +18,7 @@
   "content_scripts": [
     {
       "matches": [
-        "<all_urls>"
+        "https://www.bilibili.com/*"
       ],
       "js": [
         "JS/jquery-3.6.min.js",
